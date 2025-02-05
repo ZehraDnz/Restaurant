@@ -20,3 +20,4 @@ Proje Özellikleri
 ![](QuickBites.gif)
 
 # Quicks
+# Quick
