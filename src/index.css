@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+.container{
+    @apply max-w-[1440px]
+    mx-auto p-5 lg:p-8;
+}
+
+.button{
+    @apply  font-[600] py-1 px-3 rounded text-orange-600 hover:text-neutral-950 transition max-md:hidden hover:bg-amber-400;
+}
+.basket-btn{
+    @apply  p-3 text-orange-500  hover:bg-amber-300 transition rounded-lg
+}
+}

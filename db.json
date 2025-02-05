@@ -1,0 +1,421 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Savor the Flavor",
+      "minPrice": 90,
+      "estimatedDelivery": 45,
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/5b/a9/39/mengoli-burgers-steak.jpg?w=600&h=400&s=1",
+      "rating": 4.7,
+      "isDeliveryFree": true,
+      "isOpen": false,
+      "distance": 5
+    },
+    {
+      "id": "2",
+      "name": "Flavored House",
+      "minPrice": 40,
+      "estimatedDelivery": 35,
+      "photo": "https://www.grandplaza.com.tr/YuklenenDosyalar/Mekanlar/Buyuk/mekan_29_231.jpg",
+      "rating": 4.5,
+      "isDeliveryFree": false,
+      "isOpen": true,
+      "distance": 7
+    },
+    {
+      "id": "3",
+      "name": "Taste Corner",
+      "minPrice": 60,
+      "estimatedDelivery": 50,
+      "photo": "https://www.netkurumsal.com/wp-content/uploads/2017/10/restoran.jpg",
+      "rating": 4.8,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 2
+    },
+    {
+      "id": "4",
+      "name": "Pleasant Spot",
+      "minPrice": 45,
+      "estimatedDelivery": 40,
+      "photo": "https://mudavim.net/wp-content/uploads/2018/05/29-ulus-scaled.jpeg",
+      "rating": 4.6,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 9
+    },
+    {
+      "id": "5",
+      "name": "Leaves a Taste on Your Palate",
+      "minPrice": 55,
+      "estimatedDelivery": 55,
+      "photo": "https://kemerlikonak.com/wp-content/uploads/2024/08/anasayfa-slayt-2.jpg",
+      "rating": 4.9,
+      "isDeliveryFree": false,
+      "isOpen": false,
+      "distance": 11
+    },
+    {
+      "id": "6",
+      "name": "Fountain of Flavor",
+      "minPrice": 55,
+      "estimatedDelivery": 40,
+      "photo": "https://www.imtilakgroup.com/cdn-cgi/image/format=auto,fit=contain/https://imt-assets.fra1.digitaloceanspaces.com/Safaraq/posts/345080c661cc8146f008c604599ed3f3yud_370Df2.jpg",
+      "rating": 4.4,
+      "isDeliveryFree": false,
+      "isOpen": false,
+      "distance": 1
+    },
+    {
+      "id": "7",
+      "name": "Healthy Station",
+      "minPrice": 60,
+      "estimatedDelivery": 50,
+      "photo": "https://baristanzer.com/wp-content/uploads/2015/04/Ithaa-Undersea-Restaurant-Rangali-Adas%C4%B1-Maldivler.jpg",
+      "rating": 4.6,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 2
+    },
+    {
+      "id": "8",
+      "name": "Flavors of Spices",
+      "minPrice": 50,
+      "estimatedDelivery": 45,
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/5b/a9/39/mengoli-burgers-steak.jpg?w=600&h=400&s=1",
+      "rating": 4.7,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 11
+    },
+    {
+      "id": "9",
+      "name": "Gourmet Kitchen",
+      "minPrice": 120,
+      "estimatedDelivery": 35,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR415c028aNjeUQbLrtDLJKF_Eb3Dch4Rg4vw&s",
+      "isOpen": true,
+      "isDeliveryFree": false,
+      "distance": 3
+    },
+    {
+      "id": "10",
+      "name": "Anatolian Cuisine",
+      "minPrice": 80,
+      "photo": "https://image.elitema.com.tr/db_images/405/39/39/kas-restoranlar.jpg",
+      "rating": 4.6,
+      "isOpen": true,
+      "isDeliveryFree": true,
+      "distance": 7
+    },
+    {
+      "id": "11",
+      "name": "Aegean Flavors",
+      "minPrice": 70,
+      "estimatedDelivery": 40,
+      "photo": "https://queblounge.com/wp-content/uploads/2024/03/breakfast.jpg",
+      "rating": 4.9,
+      "isOpen": false,
+      "isDeliveryFree": false,
+      "distance": 4
+    },
+    {
+      "id": "12",
+      "name": "Feast for the Palate",
+      "minPrice": 110,
+      "estimatedDelivery": 30,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDNIiWOVkAYJtqaDFe46FJk7EMW7RM5FLMbQ&s",
+      "rating": 4.5,
+      "isOpen": true,
+      "isDeliveryFree": true,
+      "distance": 2
+    },
+    {
+      "id": "13",
+      "name": "Flavor Station",
+      "minPrice": 95,
+      "estimatedDelivery": 55,
+      "photo": "https://theelysiumhotels.com/wp-content/uploads/2020/04/0001_Restorant.jpg",
+      "rating": 4.3,
+      "isOpen": false,
+      "isDeliveryFree": false,
+      "distance": 6
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Grilled Salmon",
+      "desc": "Fresh salmon grilled and served with vegetables.",
+      "category": "Seafood",
+      "price": 45.99,
+      "rating": 4.8,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ttdQRLrjvoQteH2-Wlzj4f87DUmTVuEJmQ&s",
+      "restaurantId": "1",
+      "isPopular": true
+    },
+    {
+      "id": "2",
+      "title": "Margherita Pizza",
+      "desc": "Classic pizza made with thin crust, fresh mozzarella cheese, tomato sauce, and basil.",
+      "category": "Pizza",
+      "price": 12.99,
+      "rating": 4.5,
+      "photo": "https://gezginbirchef.com/wp-content/uploads/2019/10/margherita-margarita-pizza-tarifi.jpg",
+      "restaurantId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Chicken Kebab",
+      "desc": "Marinated chicken pieces skewered and grilled over charcoal.",
+      "category": "Kebabs",
+      "price": 17.99,
+      "rating": 4.7,
+      "photo": "https://i.lezzet.com.tr/images-xxlarge-recipe/tavuk-kebabi-971f9aac-58c0-4432-9ecd-46b549f0edb0.jpg",
+      "restaurantId": "1",
+      "isPopular": true
+    },
+    {
+      "id": "4",
+      "title": "Chocolate Brownie",
+      "desc": "Delicious brownie with an intense chocolate flavor, served with vanilla ice cream.",
+      "category": "Desserts",
+      "price": 8.99,
+      "rating": 4.9,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1QToSWpP-Fyh0YGW27K3gtg3AS7ObB9k0Q&s",
+      "restaurantId": "3"
+    },
+    {
+      "id": "5",
+      "title": "Baked Pasta",
+      "desc": "Oven-baked pasta prepared with mozzarella cheese and tomato sauce.",
+      "category": "Pasta",
+      "price": 10.99,
+      "rating": 4.6,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsE3GtM-ydVxPQ3tD7M7UrlFlEbSjosUbEZg&s",
+      "restaurantId": "4",
+      "isPopular": true
+    },
+    {
+      "id": "6",
+      "title": "Beef Stew in Casserole",
+      "desc": "Beef cooked in a casserole with fresh vegetables and spices.",
+      "category": "Meat Dishes",
+      "price": 22.99,
+      "rating": 4.4,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7jwu4G7p6zuI-O_PmAKzRvNDR2oSj2K8jYQ&s",
+      "restaurantId": "5"
+    },
+    {
+      "id": "7",
+      "title": "Oven-Baked Chicken Drumstick",
+      "desc": "Chicken drumsticks marinated with spices and roasted in the oven.",
+      "category": "Chicken Dishes",
+      "price": 14.99,
+      "rating": 4.7,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2Asv0wTYbxdHBYqtnqPhSCWjFGpUB4n8rw&s",
+      "restaurantId": "7",
+      "isPopular": true
+    },
+    {
+      "id": "8",
+      "title": "Vegetable Noodles",
+      "desc": "A light and delicious Asian dish made with various vegetables and noodles.",
+      "category": "Asian Cuisine",
+      "price": 11.99,
+      "rating": 4.6,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnbaOcaeXVNy54HxvZa5YLI6S97AxU-Nagw&s",
+      "restaurantId": "8",
+      "isPopular": true
+    },
+    {
+      "id": "9",
+      "title": "Italian Salad",
+      "desc": "A light salad made with fresh arugula, cherry tomatoes, mozzarella cheese, and balsamic dressing.",
+      "category": "Salads",
+      "price": 8.49,
+      "rating": 4.3,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7G4Ffibejl-qVSm2N_R6Dj9PxytjRytNHMA&s",
+      "restaurantId": "3"
+    },
+    {
+      "id": "42",
+      "title": "Adana Kebab",
+      "desc": "A classic Turkish dish made with minced lamb meat, grilled on skewers.",
+      "category": "Kebabs",
+      "price": 12.99,
+      "rating": 4.5,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbGjQUtzEDL82iId1PUW8Eq9B4dWKsNfjwQ&s",
+      "restaurantId": "1",
+      "isPopular": true
+    },
+    {
+      "id": "53",
+      "title": "Chicken Kebab",
+      "desc": "Marinated chicken pieces skewered and grilled over charcoal.",
+      "category": "Kebabs",
+      "price": 17.99,
+      "rating": 4.7,
+      "photo": "https://i.lezzet.com.tr/images-xxlarge-recipe/tavuk-kebabi-971f9aac-58c0-4432-9ecd-46b549f0edb0.jpg",
+      "restaurantId": "3"
+    },
+    {
+      "id": "24",
+      "title": "Chocolate Brownie",
+      "desc": "Delicious brownie with an intense chocolate flavor, served with vanilla ice cream.",
+      "category": "Desserts",
+      "price": 8.99,
+      "rating": 4.9,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1QToSWpP-Fyh0YGW27K3gtg3AS7ObB9k0Q&s",
+      "restaurantId": "4",
+      "isPopular": true
+    },
+    {
+      "id": "35",
+      "title": "Baked Pasta",
+      "desc": "Oven-baked pasta prepared with mozzarella cheese and tomato sauce.",
+      "category": "Pasta",
+      "price": 10.99,
+      "rating": 4.6,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsE3GtM-ydVxPQ3tD7M7UrlFlEbSjosUbEZg&s",
+      "restaurantId": "5"
+    },
+    {
+      "id": "76",
+      "title": "Beef Sauteed in Casserole",
+      "desc": "Tender beef sautéed with fresh vegetables and spices, cooked in a clay pot.",
+      "category": "Meat Dishes",
+      "price": 22.99,
+      "rating": 4.4,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv0DhsHWUY8Jiaj7JjMrnLwncbu3iyun-rbw&s",
+      "restaurantId": "6",
+      "isPopular": true
+    },
+    {
+      "id": "57",
+      "title": "Baked Chicken Drumstick",
+      "desc": "Chicken drumsticks marinated with spices and roasted in the oven.",
+      "category": "Chicken Dishes",
+      "price": 14.99,
+      "rating": 4.7,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2Asv0wTYbxdHBYqtnqPhSCWjFGpUB4n8rw&s",
+      "restaurantId": "7"
+    },
+    {
+      "id": "38",
+      "title": "Vegetable Noodles",
+      "desc": "A light and delicious Asian dish made with mixed vegetables and noodles.",
+      "category": "Asian Cuisine",
+      "price": 11.99,
+      "rating": 4.6,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnbaOcaeXVNy54HxvZa5YLI6S97AxU-Nagw&s",
+      "restaurantId": "8",
+      "isPopular": true
+    },
+    {
+      "id": "29",
+      "title": "Italian Salad",
+      "desc": "A refreshing salad made with fresh arugula, cherry tomatoes, mozzarella cheese, and balsamic sauce.",
+      "category": "Salads",
+      "price": 8.49,
+      "rating": 4.3,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7G4Ffibejl-qVSm2N_R6Dj9PxytjRytNHMA&s",
+      "restaurantId": "5",
+      "isPopular": true
+    },
+    {
+      "id": "310",
+      "title": "Curry Chicken",
+      "desc": "Chicken pieces cooked in Indian-style curry sauce, served with rice pilaf.",
+      "category": "Indian Cuisine",
+      "price": 16.99,
+      "rating": 4.8,
+      "photo": "https://i.nefisyemektarifleri.com/2023/03/13/cok-lezzetli-korili-kremali-tavuk-tarifi-baska-tarif-aramayin-videolu-6.jpg",
+      "restaurantId": "4",
+      "isPopular": true
+    },
+    {
+      "id": "111",
+      "title": "Seasonal Salad",
+      "desc": "A refreshing salad made with seasonal vegetables.",
+      "category": "Salads",
+      "price": 7.99,
+      "rating": 4.5,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTkl1R1-x3QOxyiANZiRAhl7ED8ZwsBlzEw&s",
+      "restaurantId": "2"
+    },
+    {
+      "id": "311",
+      "title": "Grilled Salmon",
+      "desc": "Fresh salmon fillet grilled and served with lemon slices.",
+      "category": "Seafood",
+      "price": 21.99,
+      "rating": 4.7,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ttdQRLrjvoQteH2-Wlzj4f87DUmTVuEJmQ&s",
+      "restaurantId": "7",
+      "isPopular": true
+    },
+    {
+      "id": "312",
+      "title": "Margherita Pizza",
+      "desc": "Classic pizza made with tomato sauce, mozzarella cheese, and fresh basil.",
+      "category": "Italian Cuisine",
+      "price": 12.5,
+      "rating": 4.5,
+      "photo": "https://gezginbirchef.com/wp-content/uploads/2019/10/margherita-margarita-pizza-tarifi.jpg",
+      "restaurantId": "3",
+      "isPopular": false
+    },
+    {
+      "id": "313",
+      "title": "Falafel Plate",
+      "desc": "Crispy falafel balls served with hummus, fresh vegetables, and pita bread.",
+      "category": "Vegetarian",
+      "price": 10.99,
+      "rating": 4.6,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyyfmV8fDsF_uEpLPcuxA_FtCCIR_MyjuWsw&s",
+      "restaurantId": "9",
+      "isPopular": false
+    },
+    {
+      "id": "314",
+      "title": "Lamb Tandoori",
+      "desc": "Slow-cooked, tender lamb tandoori served with bulgur pilaf.",
+      "category": "Turkish Cuisine",
+      "price": 24.99,
+      "rating": 4.9,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnaN2bgQTuOeqzC1OF0sjSvMTr21sme9XMHA&s",
+      "restaurantId": "2",
+      "isPopular": true
+    },
+    {
+      "id": "315",
+      "title": "Pad Thai",
+      "desc": "Thai-style Pad Thai made with shrimp, rice noodles, and peanuts.",
+      "category": "Asian Cuisine",
+      "price": 14.99,
+      "rating": 4.4,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY1GQzxtrljNeLH84_lO75n4OvqJ5f7YjhhQ&s",
+      "restaurantId": "6",
+      "isPopular": false
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "category": "Kebabs",
+      "title": "Chicken Kebab",
+      "price": 17.99,
+      "photo": "https://i.lezzet.com.tr/images-xxlarge-recipe/tavuk-kebabi-971f9aac-58c0-4432-9ecd-46b549f0edb0.jpg",
+      "amount": 1
+    },
+    {
+      "id": "42",
+      "category": "Kebabs",
+      "title": "Adana Kebab",
+      "price": 12.99,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbGjQUtzEDL82iId1PUW8Eq9B4dWKsNfjwQ&s",
+      "amount": 1
+    }
+  ]
+}
