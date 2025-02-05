@@ -22,3 +22,4 @@ Proje Özellikleri
 # Quicks
 # Quick
 # Restaurant
+# Restaurant
