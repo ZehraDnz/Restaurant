@@ -17,10 +17,6 @@ Proje Özellikleri
 ✅ Giriş Sistemi: Kullanıcılar, Login butonuna tıkladığında pop-up olarak açılan bir giriş formu ile giriş yapabilir.
 ✅ Responsive Tasarım: Mobil ve masaüstü cihazlar için duyarlı bir arayüze sahiptir.
 ✅ API Kullanımı: Restoran ve sepet verileri sahte bir API'den çekilir.
-![](QuickBites.gif)
+![QuickBites Project](public/QuickBites.gif)
 
-# Quicks
-# Quick
-# Restaurant
-# Restaurant
-# Restaurant
+
